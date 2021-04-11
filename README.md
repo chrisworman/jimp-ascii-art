@@ -1,5 +1,7 @@
 # jimp-ascii-art
 
+<img width="782" alt="Screen Shot 2021-04-11 at 12 26 39 AM" src="https://user-images.githubusercontent.com/5204921/114295846-ae7c9100-9a5c-11eb-988b-bec8a3fcf0c7.png">
+
 In the project directory, you can run:
 
 ```bash
