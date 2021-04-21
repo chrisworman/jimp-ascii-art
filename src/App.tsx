@@ -51,9 +51,6 @@ function App() {
       for(let c=32;c<127;++c) { // Standard ascii
         alphabet.push(String.fromCharCode(c));
       }
-      // for(let c=8000;c<8700;++c) { // ????
-      //   alphabet.push(String.fromCharCode(c));
-      // }
       for(let c=9500;c<9700;++c) { // Drawing characters
         alphabet.push(String.fromCharCode(c));
       }
